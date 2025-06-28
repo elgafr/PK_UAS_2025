@@ -1,0 +1,27 @@
+[
+    {
+        "query": "terbukti bersalah melakukan Tindak Pidana Korupsi dan Tindak Pidana Pencucian Uang",
+        "ground_truth_case_id": 2,
+        "notes": "Kueri semantik tentang vonis dan aset dalam TPPU."
+    },
+    {
+        "query": "melakukan perbuatan yang bertentangan dengan undang-undang ini dan perbuatan telah mengakibatkan kerugian bagi Bank Syariah",
+        "ground_truth_case_id": 6,
+        "notes": "Kueri semantik tentang vonis dan aset dalam TPPU."
+    },
+    {
+        "query": "Penipuan yang dilakukan secara bersama-sama dan Tindak Pidana Pencucian Uang",
+        "ground_truth_case_id": 34,
+        "notes": "Kueri semantik proses banding TPPU."
+    },
+    {
+        "query": "Korupsi yang dilakukan secara bersama-sama",
+        "ground_truth_case_id": 14,
+        "notes": "Kueri spesifik mencari pasal hukum TPPU."
+    },
+    {
+        "query": "Terdakwa tersebut berada dalam tahanan Rumah Tahanan Negara",
+        "ground_truth_case_id": 37,
+        "notes": "Kueri umum tentang TPPU oleh individu."
+    }
+]

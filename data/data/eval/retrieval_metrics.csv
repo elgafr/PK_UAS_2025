@@ -1,0 +1,4 @@
+Metric,TF-IDF Score,BERT Embeddings Score
+F1-score (weighted),1.0,1.0
+Precision (weighted),1.0,1.0
+Recall (weighted),1.0,1.0

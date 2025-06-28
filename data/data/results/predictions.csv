@@ -1,0 +1,6 @@
+query_id,predicted_solution,top_5_case_ids
+1,Tolak,"20, 19, 34, 2, 29"
+2,Lain-lain,"20, 21, 24, 6, 28"
+3,Lain-lain,"20, 19, 9, 29, 14"
+4,Lain-lain,"19, 9, 29, 32, 1"
+5,Lain-lain,"19, 29, 32, 43, 14"
